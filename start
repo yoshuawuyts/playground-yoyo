@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./node_modules/.bin/budo index.js --open
